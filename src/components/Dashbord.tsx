@@ -8,11 +8,10 @@ export const Dashbord = () => {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
         <div className="md:w-3/5">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Delicious food, delivered to you
+            Craving something delicious? We've got you covered.
           </h1>
           <p className="text-xl text-gray-300 mb-8">
-            Order from your favorite restaurants and track your delivery in
-            real-time. Available 24/7.
+            Browse your favorite eateries and enjoy real-time delivery tracking, 24/7.
           </p>
           <div className="bg-white p-4 rounded-lg shadow-lg max-w-md">
             <h3 className="font-medium mb-4 text-gray-900">
